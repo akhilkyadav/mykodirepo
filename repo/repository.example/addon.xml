@@ -14,7 +14,7 @@
         <platform>all</platform>
         <assets>
             <icon>icon.png</icon>
-            <fanart>https://ibb.co/fY5BgK9P</fanart>
+            <fanart>sky.jpg</fanart>
         </assets>
     </extension>
 </addon>
